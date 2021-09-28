@@ -5,7 +5,7 @@
 
     <body>
         <?php
-            echo "www.github.com/cherryyam/qm-blog"
+            echo "<a href='https://www.github.com/cherryyam/qm-blog'>www.github.com/cherryyam/qm-blog</a>"
         ?>
     </body>
 </html>
